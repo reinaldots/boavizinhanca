@@ -1,8 +1,16 @@
 {
   "imgUrl": "/img/furadeira.png",
-  "titulo": "Furadeira / Parafusadeira",
-  "descricao": "Otima para servicos...",
+  "titulo": "Furadeira/Parafusadeira",
+  "descricao": "Ótima para serviços...",
   "dataPublicacao": "3 dias",
   "reputacao": "4.5",
   "valor": "500"
+}
+{
+  "imgUrl": "/img/impressora.png",
+  "titulo": "Impressora HP",
+  "descricao": "Impressora laser com ótimo desempenho",
+  "dataPublicacao": "2 semanas",
+  "reputacao": "4.0",
+  "valor": "370"
 }
