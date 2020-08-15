@@ -1,18 +1,26 @@
 [
 	{
-		"imgUrl": "/images/furadeira.png",
-		"titulo": "Furadeira/Parafusadeira",
-		"descricao": "&oacute;tima para servi&ccedil;os...",
+		"imgUrl": "images/furadeira.png",
+		"titulo": "Furadeira e parafusadeira",
+		"descricao": "Completa e vers&acute;til, ideal para fazer pequenas manuten&ccedil;&otilde;es.",
 		"dataPublicacao": "3 dias",
 		"reputacao": "4.5",
 		"valor": "500"
 	},
 	{
-		"imgUrl": "/images/impressora.png",
-		"titulo": "Impressora HP",
-		"descricao": "Impressora laser, bom desempenho",
+		"imgUrl": "images/impressora.png",
+		"titulo": "Impressora jato de tinta",
+		"descricao": "Impressora jato de tinta colorida, impress&atilde;o super r&acute;pida e leg&icute;vel.",
 		"dataPublicacao": "2 semanas",
 		"reputacao": "4.0",
 		"valor": "370"
+	},
+	{
+		"imgUrl": "images/aspirador.png",
+		"titulo": "Aspirador de p&ocute; e &acute;gua",
+		"descricao": "Facilita muito a limpeza da casa, do escrit&oacute;rio ou do carro de forma eficiente.",
+		"dataPublicacao": "3 semanas",
+		"reputacao": "4.5",
+		"valor": "480"
 	}
 ]
